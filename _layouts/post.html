@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+  {% if site.facebook_appid %}
+    {% include facebook_sdk.html %}
+  {% endif %}
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -26,4 +31,5 @@ layout: default
   {% if site.facebook_appid %}
     {% include facebook_comments.html %}
   {% endif %}
+
 </article>
