@@ -2,14 +2,9 @@
 layout: post
 author: Cory Klein
 title: Picking Up The RV
+image: 1.jpg
+description: My travels to Eldora Lodge to pick up the RV, and the adventure of getting it back in one piece.
 ---
-
-<meta property="og:image" content="{{ site.url }}/assets{{ page.id }}/1.jpg">
-<meta property="og:image:url" content="{{ site.url }}/assets{{ page.id }}/1.jpg">
-<meta property="og:image:secure_url" content="{{ site.url }}/assets{{ page.id }}/1.jpg">
-<meta property="og:image:type" content="image/jpeg">
-<meta property="og:image:width" content="700">
-<meta property="og:image:height" content="525">
 
 After much searching, I found a barely used model of our coveted Jayco Eagle 355MBQS parked at Eldora Lodge in Golden, CO. 
 
