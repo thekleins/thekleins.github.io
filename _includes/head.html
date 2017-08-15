@@ -30,6 +30,9 @@
   {% else %}
     <meta content="{{ site.description }}" property="og:description">
   {% endif %}
+  {% if site.facebook_appid %}
+    <meta content="{{ site.facebook_appid }}" property="fb:app_id">
+  {% endif %}
   {% if page.url %}
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
   {% endif %}
