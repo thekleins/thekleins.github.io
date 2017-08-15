@@ -20,7 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://travel.coryklein.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: coryfklein
-github_username:  coryfklein
+github_username: coryfklein
+facebook_appid: 316138178856693
 google_analytics: UA-104567517-1
 
 # Build settings
@@ -36,6 +37,9 @@ defaults:
     values:
       layout: "post"
       author: "Cory Klein"
+      comments: "true"
+      image: "image name"
+      description: "write a description"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
