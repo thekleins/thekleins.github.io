@@ -4,9 +4,9 @@ author: Cory Klein
 title: Picking Up The RV
 ---
 
-<meta property="og:image" content="{{ site.baseurl }}/assets{{ page.id }}/1.jpg">
-<meta property="og:image:url" content="{{ site.baseurl }}/assets{{ page.id }}/1.jpg">
-<meta property="og:image:secure_url" content="{{ site.baseurl }}/assets{{ page.id }}/1.jpg">
+<meta property="og:image" content="{{ site.url }}/assets{{ page.id }}/1.jpg">
+<meta property="og:image:url" content="{{ site.url }}/assets{{ page.id }}/1.jpg">
+<meta property="og:image:secure_url" content="{{ site.url }}/assets{{ page.id }}/1.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="700">
 <meta property="og:image:height" content="525">
