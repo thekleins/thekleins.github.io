@@ -7,7 +7,7 @@ description: Tight parking in a beautiful area. Learning how to "live" in the RV
 title: Canyon View Park
 ---
 
-We left Pleasant Grove Sunday night and drove down to Canyon View Park in Spanish Fork for our first full practice run. Cory worked the whole week and we had partial hookups which means we had electricity and water so this week was very different from our time in Idaho. When we arrived the first thing we had to do was get into our spot. This was an older park that was built before such long fifth wheels like our RV were common and the space was a bit cramped.
+We left Pleasant Grove Sunday night (September 10, 2017) and drove down to Canyon View Park in Spanish Fork for our first full practice run. Cory worked the whole week and we had partial hookups which means we had electricity and water so this week was very different from our time in Idaho. When we arrived the first thing we had to do was get into our spot. This was an older park that was built before such long fifth wheels like our RV were common and the space was a bit cramped.
 
 It took us about 20 minutes to back into our spot. We were having such a hard time the park manager finally found the person who owned the car near us and asked them to move it so we would have more space to maneuver. The whole experience was highly stressful and I was so close to just giving up and having us go home, but once we were parked things went much better for us. After we pulled up we explored the RV park as a family. There is a fishing pond, creek, playground, and tons of grass - actually a really pretty park. 
 
